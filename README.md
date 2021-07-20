@@ -35,6 +35,8 @@ Users should be able to:
 
 ### Links
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/461e9346-21b9-49b6-a8ad-7da4ff457243/deploy-status)](https://app.netlify.com/sites/dine-reservations-react/deploys)
+
 -   Live Site URL: [Hosted On Netlify](https://dine-reservations-react.netlify.app/)
 
 ## My process
